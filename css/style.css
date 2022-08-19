@@ -68,7 +68,7 @@ header {
     display: inline-flex;
     box-sizing: border-box;
     margin: 0;
-    width: 200px;
+    width: 200px; #понимаю, что неправильные размеры. не знаю как растянуть
     height: 100px;
     background-color: aqua;
     background-size: cover;
